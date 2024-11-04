@@ -1,0 +1,10 @@
+__pycache__/
+
+generated-client/
+*.yaml
+*.jar
+
+*.iml
+.idea/
+
+data/
